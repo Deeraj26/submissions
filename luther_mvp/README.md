@@ -1,7 +1,7 @@
 Project:  A Venture capitalist want to know what features  makes a movie successful Internationally. 
 
 
-![](./img/luther_submission.png.png)
+![](./img/luther_submission.png)
 
 
 Above Linear Regression model is created to understand the impact of domestic success i.e domestic gross on foriegn sucess.  As expected the results 
